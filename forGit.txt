@@ -5,3 +5,5 @@ you know my means
 i'm ready to checkout
 
 here is for dev
+
+here is for feature and config
