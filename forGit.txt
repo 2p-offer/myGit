@@ -6,7 +6,7 @@ i'm ready to checkout
 
 here is for dev
 
-here is for feature and config
+here is for feature and config and i'm for bug
 this is for feature1
 
 the second time for dev
